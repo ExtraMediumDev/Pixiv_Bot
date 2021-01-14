@@ -193,4 +193,4 @@ async def on_message(message):
     
     
 #runs the bot
-bot.run('Nzk4OTM3MzUyNDk5MTAxNzE3.X_8SZA.5XNq7znIIiWcE8egX2hysI6o_0M')
+bot.run('TOKEN_HERE')
